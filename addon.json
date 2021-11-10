@@ -2,5 +2,5 @@
 	"title"		:	"[TTT2] Role Alibi System",
 	"type"		:	"ServerContent",
     "tags"		:	[ "roleplay", "fun" ],
-    "ignore"    : [    ]
+    "ignore"    : [".git/*", ".gitattributes"]
 }
